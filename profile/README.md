@@ -1,12 +1,5 @@
-## Hi there 👋
+## 苔花 · Mossflower
 
-<!--
+> “白日不到处，青春恰自来。苔花如米小，也学牡丹开。”——袁枚《苔》
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+一个默默成长的项目
